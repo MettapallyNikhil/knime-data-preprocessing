@@ -16,8 +16,8 @@ This project demonstrates a data preprocessing workflow built using KNIME Analyt
 To build a structured data preprocessing pipeline that improves data quality and prepares datasets for further analysis or machine learning tasks.
 
 ## 📂 Project Structure
-- workflow.knime → Main workflow file  
-- dataset.csv → Input data
+- treatment of Missing values.knwf → Main workflow file  
+- categorical_dataset_with_missing_values.csv & production_dataset_with_missing_values.csv → Input data
 
 ## 🚀 Key Concepts
 - Data Cleaning  
