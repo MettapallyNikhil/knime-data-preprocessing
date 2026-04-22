@@ -1,5 +1,3 @@
-<img width="709" height="401" alt="image" src="https://github.com/user-attachments/assets/62f9e527-17ed-48bf-8fe1-5c4e9dee7d7f" /><img width="521" height="296" alt="image" src="https://github.com/user-attachments/assets/5b2e3273-f382-4ecb-ab58-f6e1524ae176" />
-
 # KNIME Data Preprocessing Workflow
 
 ## 📌 Project Overview
@@ -19,10 +17,18 @@ To build a structured data preprocessing pipeline that improves data quality and
 
 ## 📂 Project Structure
 - workflow.knime → Main workflow file  
-- dataset.csv → Input data (if included)
+- dataset.csv → Input data
 
 ## 🚀 Key Concepts
 - Data Cleaning  
 - Outlier Detection  
 - Data Transformation  
 - Exploratory Data Analysis (EDA)
+
+## 📈 Results
+
+- Missing values were successfully handled using statistical imputation
+- No significant outliers detected in the dataset
+- Data aggregation provided meaningful summary statistics
+
+<img width="709" height="401" alt="image" src="https://github.com/user-attachments/assets/62f9e527-17ed-48bf-8fe1-5c4e9dee7d7f" /><img width="521" height="296" alt="image" src="https://github.com/user-attachments/assets/5b2e3273-f382-4ecb-ab58-f6e1524ae176" />
