@@ -25,6 +25,13 @@ To build a structured data preprocessing pipeline that improves data quality and
 - Data Transformation  
 - Exploratory Data Analysis (EDA)
 
+## ▶️ How to Run
+
+1. Open KNIME Analytics Platform  
+2. Import the workflow file (.knwf)  
+3. Execute the nodes step-by-step  
+4. View results in output nodes  
+
 ## 📈 Results
 
 - Missing values were successfully handled using statistical imputation
